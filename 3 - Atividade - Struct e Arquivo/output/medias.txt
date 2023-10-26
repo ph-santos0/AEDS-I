@@ -1,4 +1,0 @@
-Média salarial da população: 2880
-Média de filhos da população: 1.7
-Maior salario da população: 8000
-Percentual de mulheres com salario acima de R$ 1000: 75%
