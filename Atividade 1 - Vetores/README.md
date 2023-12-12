@@ -1,4 +1,4 @@
-# AEDS I – Atividades de Revisão Vetores
+# Atividades - Revisão Vetores
 1. Escreva um algoritmo que armazene em um vetor todos os números inteiros de 1 a 50. Após isso, o
 algoritmo deve imprimir todos os valores armazenados.
 2. Escreva um algoritmo que armazene em um vetor todos os números inteiros de 100 a 1 (em ordem
